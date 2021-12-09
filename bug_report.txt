@@ -1,1 +1,5 @@
-
+Id: 1
+Discription: do not open login page
+Full discription: open web brouser, go to page www...com
+Severity: high
+Priority: critical
